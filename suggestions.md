@@ -1,1 +1,1 @@
-## a variational U-net：(https://github.com/CompVis/vunet)
+## a variational U-Net：(https://github.com/CompVis/vunet)
